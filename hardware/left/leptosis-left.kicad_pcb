@@ -7,6 +7,14 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "Leptosis")
+		(date "2025-07-06")
+		(rev "v1.1")
+		(company "Chengyin Yao (cheyao)")
+		(comment 1 "A PG1316 Split Keyboard")
+		(comment 2 "Solderpad License")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(4 "In1.Cu" signal)
@@ -16796,7 +16804,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C1035 "
+		(property "LCSC Part #" "C86083"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17031,7 +17039,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C1035 "
+		(property "LCSC Part #" "C86083"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")

@@ -120,3 +120,13 @@ And I've also finished the right side!!!
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/02141a62144210c4f89702bedfaa414e6e2c939f_image.png)
 
 - 3h
+
+
+-----------
+
+The case is also finished!
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/23edbb57a7ef36e5c4a47974ee4243b9c40d1baa_image.png)
+
+- 1h
+

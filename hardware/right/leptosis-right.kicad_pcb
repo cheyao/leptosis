@@ -16805,7 +16805,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C1035 "
+		(property "LCSC Part #" "C86083"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17040,7 +17040,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC Part #" "C1035 "
+		(property "LCSC Part #" "C86083"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")

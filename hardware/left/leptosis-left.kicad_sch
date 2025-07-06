@@ -4,6 +4,14 @@
 	(generator_version "9.0")
 	(uuid "01d7edc0-7482-4d3c-92ca-d3e34643e937")
 	(paper "A3")
+	(title_block
+		(title "Leptosis")
+		(date "2025-07-06")
+		(rev "v1.1")
+		(company "Chengyin Yao (cheyao)")
+		(comment 1 "A PG1316 Split Keyboard")
+		(comment 2 "Solderpad License")
+	)
 	(lib_symbols
 		(symbol "Battery_Management:BQ24075RGT"
 			(exclude_from_sim no)
@@ -11270,7 +11278,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1035 "
+		(property "LCSC Part #" "C86083"
 			(at 143.51 113.03 0)
 			(effects
 				(font
@@ -13057,7 +13065,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1035 "
+		(property "LCSC Part #" "C86083"
 			(at 140.97 113.03 90)
 			(effects
 				(font

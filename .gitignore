@@ -15,6 +15,7 @@ fp-info-cache
 *.json
 
 *.lck
+*.FCBak
 
 *.zip
 !hardware/*/production/*.zip
