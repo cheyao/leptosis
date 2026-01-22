@@ -1,6 +1,6 @@
 # Leptosis - Ultra Flat PG1316 Split Keyboard
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b97e3c963de603d2fb5ac9c4be58e76619bc63ce_leptosis.jpg)
+![](assets/front.jpg)
 
 "Leptos" stands for "flat" in greek, added with the suffix is, it forms the word "Leptosis", signifying the most flat. This represents my long lasting desire for an real flat keyboard that is portable and light. The name is also quite similar to the latin word "levitatio", signifying levitation and thus light. (I'm bad at naming things lol)
 
@@ -10,7 +10,7 @@ Leptosis is an ultra flat split bluetooth keyboard. It's thickness will be ~7.5m
 
 | Left | Right |
 | ---- | ----- |
-| ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/93c19a7e2f73b48492104c29d259a4b94f9fd808_image.png) | ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/02141a62144210c4f89702bedfaa414e6e2c939f_image.png) |
+| ![](assets/left.png) | ![](assets/right.png) |
 
 ## Features
 - Ultra long battery life (~4 months for central and 1 year for peripheral)
@@ -20,7 +20,7 @@ Leptosis is an ultra flat split bluetooth keyboard. It's thickness will be ~7.5m
 - Embedded nrf52 mcu
 - ZMK bluetooth
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e72de788a1f166aefb711bf11d021232dabbda11_leptosis-hand.jpg)
+![](assets/hand-scale.jpg)
 
 ## Fabrication
 
